@@ -2,7 +2,7 @@
 
 I'm Uğur Dindar, a Computer Engineering (Computer Science) student at Eskişehir Technical University. Tzesh is my nickname, which means nothing but I'm the one who will give its meaning so fasten your seatbelts.
 
-<a href="https://tzesh.online/"><img src="http://tzesh.online/img/avatar.png" align="right" height="200" /></a>
+<a href="http://tzesh.online/"><img src="http://tzesh.online/img/avatar.png" align="right" height="200" /></a>
 
 <details>
   <summary>🚀 Technologies & Tools</summary>
