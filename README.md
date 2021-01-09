@@ -19,6 +19,7 @@ I'm Uğur Dindar, a Computer Engineering (Computer Science) student at Eskişehi
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   
   ![Mozilla Firefox](https://img.shields.io/badge/Firefox-black?style=flat-square&logo=firefox)
+  ![Microsoft Edge](https://img.shields.io/badge/Edge-black?style=flat-square&logo=microsoft-edge)
   ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
   ![Windows](https://img.shields.io/badge/Windows-black?style=flat-square&logo=windows)
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
