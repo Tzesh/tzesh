@@ -10,11 +10,17 @@ I'm Uğur Dindar, a Computer Engineering (Computer Science) student at Eskişehi
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-  ![VS](https://img.shields.io/badge/-VS-purple?style=flat-square&logo=visual-studio)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=jetbrains)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+  ![VS](https://img.shields.io/badge/-VS-black?style=flat-square&logo=visual-studio)
   
-  ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
-  ![C#](https://img.shields.io/badge/C%23-blue?style=flat-square&logo=C-sharp)
+  ![HTML](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=HTML5)
+  ![CSS3](https://img.shields.io/badge/CSS-black?style=flat-square&logo=CSS3)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=Bootstrap)
+  ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=MySQL)
+  
+  ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
+  ![C#](https://img.shields.io/badge/C%23-black?style=flat-square&logo=C-sharp)
   ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   
