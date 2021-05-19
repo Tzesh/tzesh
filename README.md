@@ -18,6 +18,7 @@ I'm Uğur Dindar, a Computer Engineering (Computer Science) student at Eskişehi
   ![CSS3](https://img.shields.io/badge/CSS-black?style=flat-square&logo=CSS3)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=Bootstrap)
   ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=MySQL)
+  ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask)
   
   ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
   ![C#](https://img.shields.io/badge/C%23-black?style=flat-square&logo=C-sharp)
