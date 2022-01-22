@@ -42,3 +42,5 @@ I'm Uğur Dindar, a Computer Engineering (Computer Science) student at Eskişehi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tzesh&layout=compact&count_private=true&theme=dark" />
 
 </details>
+
+![Snake-eating contribution](https://github.com/tzesh/tzesh/blob/output/github-contribution-grid-snake.svg)
