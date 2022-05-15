@@ -1,6 +1,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>,
 
-I'm Uğur Dindar, a Computer Engineering (Computer Science) student at Eskişehir Technical University. Tzesh is my nickname, which means nothing but I'm the one who will give its meaning so fasten your seatbelts.
+I'm Uğur Dindar, an ordinary person who interested in Computer Science & Technologies, Computer Engineering (Computer Science) student at Eskişehir Technical University. I have been known as 'Tzesh' which is my nickname. I have been always take part in the side which supports, knows, contributes to and benefits from open-source softwares. Most of the projects that I've developed so far is listed on my GitHub profile as public.
+
+If you want to get into touch, please mail to ✉️ mail@ugurdindar.com
 
 <a href="https://ugurdindar.com/"><img src="https://ugurdindar.com/img/github-logo.png" align="right" height="200" /></a>
 
