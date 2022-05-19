@@ -2,7 +2,7 @@
 
 I'm Uğur Dindar, an ordinary person who interested in Computer Science & Technologies, Computer Engineering (Computer Science) student at Eskişehir Technical University. I have been known as 'Tzesh' which is my nickname. I have been always take part in the side which supports, knows, contributes to and benefits from open-source softwares. Most of the projects that I've developed so far is listed on my GitHub profile as public.
 
-To get into touch, please refer to ✉️ mail@ugurdindar.com
+To be in contact, please refer to ✉️ mail@ugurdindar.com
 
 <a href="https://ugurdindar.com/"><img src="https://ugurdindar.com/img/github-logo.png" align="right" height="200" /></a>
 
