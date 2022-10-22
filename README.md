@@ -28,6 +28,7 @@ To be in contact, please refer to ✉️ mail@ugurdindar.com
   ![C#](https://img.shields.io/badge/C%23-black?style=flat-square&logo=C-sharp)
   ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
   
   ![Mozilla Firefox](https://img.shields.io/badge/Firefox-black?style=flat-square&logo=firefox)
   ![Microsoft Edge](https://img.shields.io/badge/Edge-black?style=flat-square&logo=microsoft-edge)
