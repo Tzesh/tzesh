@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"></a>,
 
-I'm Uğur Dindar, an ordinary person who interested in Computer Science & Technologies since childhood, Computer Engineering (Computer Science) student (7/8) at Eskişehir Technical University. I have been known as 'Tzesh' which is my nickname. I have always taken part in the side which supports, contributes to, and benefits from open-source software. I'm striving to improve my knowledge by developing, staying up-to-date, and learning new things day by day. Most of the projects that I had developed are listed publicly on GitHub because actions speak louder than words.
+I'm Uğur Dindar, an ordinary person who interested in Computer Science & Technologies since childhood, Computer Engineering (Computer Science) student (8/8) at Eskişehir Technical University. I have been known as 'Tzesh' which is my nickname. I have always taken part in the side which supports, contributes to, and benefits from open-source software. I'm striving to improve my knowledge by developing, staying up-to-date, and learning new things day by day. Most of the projects that I had developed are listed publicly on GitHub because actions speak louder than words.
 
 To be in contact, please refer to ✉️ mail@ugurdindar.com
 
