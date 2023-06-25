@@ -4,7 +4,7 @@ I'm Uğur Dindar, an ordinary person who interested in Computer Science & Techno
 
 To be in contact, please refer to ✉️ mail@ugurdindar.com
 
-<a href="https://ugurdindar.com/"><img src="https://ugurdindar.com/img/github-logo.png" align="right" height="200" /></a>
+<a href="https://ugurdindar.com/"><img src="https://imgur.com/CF4CxjE.png" align="right" height="200" /></a>
 
 <details>
   <summary>🚀 Technologies & Tools</summary>
