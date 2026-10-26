@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"></a>,
 
-I'm Uğur Dindar, an ordinary person who interested in Computer Science & Technologies since childhood and also a graduate from Eskişehir Technical University. I have been known as Tzesh which is my nickname. I have always taken part in the side which supports, contributes to, and benefits from open-source software. I'm striving to improve my knowledge by developing, staying up-to-date, and learning new things day by day. Most of the projects that I had developed are listed publicly on GitHub because actions speak louder than words.
+Software Engineer experienced in building secure payment systems and event-driven applications with Java, Spring Boot, and Apache Kafka. I enjoy solving complex problems, improving large codebases, and building shared tools that other teams can use. Alongside hands-on development, I contribute to division-level Kafka and AI-assisted security initiatives and build reusable AI agent tooling to support everyday engineering work.
 
 To be in contact, please refer to ✉️ mail@ugurdindar.com
 
